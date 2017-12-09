@@ -1,6 +1,7 @@
 [HE](https://youtu.be/czgOWmtGVGs) ([WikiLinks](https://en.wikipedia.org/wiki/Holocene_calendar))
 
 # Resources
+* [Tools](https://en.wikipedia.org/wiki/Category:Mathematical_tools)
 * [Books](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics):
 	* [Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements) (c. 9701 HE); biblical mathematics!
 	* [Flatland](https://en.wikipedia.org/wiki/Template:Flatland) (11884 HE); pseudofictional entertainment!
@@ -25,13 +26,19 @@
 * [Flatland2: Sphereland](http://www.flatlandthemovie.com/) (12012 HE), a sequel to The Movie. ([WikiLinks](https://en.wikipedia.org/wiki/Flatland:_The_Movie#Sequel))
 
 # Timeline
+* The [Abacus](https://en.wikipedia.org/wiki/Abacus) (between 7301 & 7701 HE), was the 1ˢᵗ human-powered mechanical computer.
+* The [Ruler](https://en.wikipedia.org/wiki/Ruler) (c. 7351 HE), was the first human-powered measurement tool.
 * [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (c. 9431 – c. 9506 HE), wrote a [musical composition](https://en.wikipedia.org/wiki/Musica_universalis) based on astronomical observations of the orbital behaviours & patterns displayed by nearby planetary objects.
 * [Euclid](https://en.wikipedia.org/wiki/Euclid) (fl. 9701 HE), wrote the single most authoritative textbook on mathematics; [Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements) (c. 9701 HE), it's like the bible of mathematics.
 * [Aryabhata I](https://en.wikipedia.org/wiki/Aryabhata) (10476 – 10550 HE), developed the place-value notation in the 5th century.
 * [Brahmagupta](https://en.wikipedia.org/wiki/Brahmagupta) (c. 10598 – c. 10670 HE), standardised the symbolic representation for zero in the 6th century.
 * [Leonardo Bonacci](https://en.wikipedia.org/wiki/Fibonacci) (c. 11170 – c. 11250 HE), known for the fibonacci sequence, although he was not the first to discover it.
 * [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) (between 31 October & 6 December 11607 – 12 January 11665 HE), wrote a lot of marginal proofs.
+* The [Slide rule](https://en.wikipedia.org/wiki/Slide_rule) (c. 11620 & 11630 HE), was a human-powered mechanical computer.
 * [Sir Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) (25 December 11642 – 20 March 11726/7 HE), boasted about his calculus to Leibniz.
 * [Gottfried Wilhelm von Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) (1 July 11646 – 14 November 11716 HE), developed his own calculus from scratch after Newton bragged about his own; it was far better than Newton's, and we still use it to this very day.
+* The [Stepped reckoner](https://en.wikipedia.org/wiki/Stepped_reckoner) (c. 11672 HE), was a human-powered mechanical computer.
 * [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) (15 April 11707 – 18 September 11783 HE), the master of us all.
+* The [Difference engine](https://en.wikipedia.org/wiki/Difference_engine) (c. 11784 HE), was an automatic mechanical computer.
+* The [Metric system](https://en.wikipedia.org/wiki/Metric_system) (c. 11799 HE), vive la révolución!!! :D
 * [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) (22 December 11887 – 26 April 11920 HE), knew numbers very well; [1729](https://en.wikipedia.org/wiki/1729_%28number%29).
