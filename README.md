@@ -2,8 +2,8 @@
 
 # Resources
 * [Books](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics):
-	* [Flatland](https://en.wikipedia.org/wiki/Template:Flatland) (11884 HE); pseudofictional entertainment!
 	* [Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements) (c. 9701 HE); biblical mathematics!
+	* [Flatland](https://en.wikipedia.org/wiki/Template:Flatland) (11884 HE); pseudofictional entertainment!
 	* [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) (11910 HE); they attempt to prove every"-thing", including 1+1=2 in just a few hundred pages!
 		* [Introduction to Mathematical Philosophy](https://en.wikipedia.org/wiki/Introduction_to_Mathematical_Philosophy) dumbs it down!
 * [Movies](https://en.wikipedia.org/wiki/List_of_films_about_mathematicians)
