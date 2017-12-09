@@ -27,7 +27,7 @@
 
 # Timeline
 * The [Abacus](https://en.wikipedia.org/wiki/Abacus) (between 7301 & 7701 HE), was the 1ˢᵗ human-powered mechanical computer.
-* The [Ruler](https://en.wikipedia.org/wiki/Ruler) (c. 7351 HE), was the first human-powered measurement tool.
+* The [Ruler](https://en.wikipedia.org/wiki/Ruler) (c. 7351 HE), was the 1ˢᵗ human-powered measurement tool.
 * [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (c. 9431 – c. 9506 HE), wrote a [musical composition](https://en.wikipedia.org/wiki/Musica_universalis) based on astronomical observations of the orbital behaviours & patterns displayed by nearby planetary objects.
 * [Euclid](https://en.wikipedia.org/wiki/Euclid) (fl. 9701 HE), wrote the single most authoritative textbook on mathematics; [Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements) (c. 9701 HE), it's like the bible of mathematics.
 * [Aryabhata I](https://en.wikipedia.org/wiki/Aryabhata) (10476 – 10550 HE), developed the place-value notation in the 5th century.
