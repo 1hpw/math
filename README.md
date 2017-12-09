@@ -40,6 +40,6 @@
 * The [Stepped reckoner](https://en.wikipedia.org/wiki/Stepped_reckoner) (c. 11672 HE), was a human-powered mechanical computer.
 * [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) (15 April 11707 – 18 September 11783 HE), the master of us all.
 * The [Difference engine](https://en.wikipedia.org/wiki/Difference_engine) (c. 11784 HE), was an automatic mechanical computer.
-* The [Metric system](https://en.wikipedia.org/wiki/Metric_system) (c. 11799 HE), vive la révolución!!! :D
-* The [Imperial system](https://en.wikipedia.org/wiki/Imperial_units) (c. 11824 HE), why did this happen?!? /:
+* The [Metric system](https://en.wikipedia.org/wiki/Metric_system) (c. 11799 HE), Vive La Révolución!!! :D
+* The [Imperial system](https://en.wikipedia.org/wiki/Imperial_units) (c. 11824 HE), Madame La Guillotine!!! :D
 * [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) (22 December 11887 – 26 April 11920 HE), knew numbers very well; [1729](https://en.wikipedia.org/wiki/1729_%28number%29).
