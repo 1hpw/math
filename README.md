@@ -1,7 +1,12 @@
 [HE](https://youtu.be/czgOWmtGVGs) ([WikiLinks](https://en.wikipedia.org/wiki/Holocene_calendar))
 
 # Resources
-* [Tools](https://en.wikipedia.org/wiki/Category:Mathematical_tools)
+* [Tools](https://en.wikipedia.org/wiki/Category:Mathematical_tools):
+	* [Desmos](https://www.desmos.com/calculator)
+		* [Practice](https://www.wolframalpha.com/problem-generator/)
+	* [WolframAlpha](https://www.wolframalpha.com/)
+	* [Symbolab](https://www.symbolab.com/)
+		* [Practice](https://www.symbolab.com/practice)
 * [Books](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics):
 	* [Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements) (c. 9701 HE); biblical mathematics!
 	* [Flatland](https://en.wikipedia.org/wiki/Template:Flatland) (11884 HE); pseudofictional entertainment!
