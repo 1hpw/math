@@ -12,7 +12,8 @@
 	* [Flatland](https://en.wikipedia.org/wiki/Template:Flatland) (11884 HE); pseudofictional entertainment!
 	* [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) (11910 HE); they attempt to prove every"-thing", including 1+1=2 in just a few hundred pages!
 		* [Introduction to Mathematical Philosophy](https://en.wikipedia.org/wiki/Introduction_to_Mathematical_Philosophy) (11919 HE), dumbs it down!
-* [Movies](https://en.wikipedia.org/wiki/List_of_films_about_mathematicians)
+* [Movies](https://en.wikipedia.org/wiki/List_of_films_about_mathematicians):
+	* [Donald in Mathmagic Land](https://en.wikipedia.org/wiki/Donald_in_Mathmagic_Land) (26 June 11959 HE); mathematical intelligence can be used to win games without using artificial/synthetic/ETC intelligence!
 * [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)
 * [Khan Academy (Google maps)](https://www.khanacademy.org/exercisedashboard)
 * [Numberphile](https://www.youtube.com/user/numberphile)
