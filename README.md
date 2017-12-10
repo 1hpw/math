@@ -3,8 +3,8 @@
 # Resources
 * [Tools](https://en.wikipedia.org/wiki/Category:Mathematical_tools):
 	* [Desmos](https://www.desmos.com/calculator)
-		* [Practice](https://www.wolframalpha.com/problem-generator/)
 	* [WolframAlpha](https://www.wolframalpha.com/)
+		* [Practice](https://www.wolframalpha.com/problem-generator/)
 	* [Symbolab](https://www.symbolab.com/)
 		* [Practice](https://www.symbolab.com/practice)
 * [Books](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics):
