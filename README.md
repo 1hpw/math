@@ -40,6 +40,7 @@
 * [Brahmagupta](https://en.wikipedia.org/wiki/Brahmagupta) (c. 10598 – c. 10670 HE), standardised the symbolic representation for zero in the 6th century.
 * [Leonardo Bonacci](https://en.wikipedia.org/wiki/Fibonacci) (c. 11170 – c. 11250 HE), known for the fibonacci sequence, although he was not the first to discover it.
 * [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) (between 31 October & 6 December 11607 – 12 January 11665 HE), wrote a lot of marginal proofs.
+* The [Computer](https://en.wikipedia.org/wiki/Human_computer) (c. 11613 HE), was the 1ˢᵗ human computer.
 * The [Slide rule](https://en.wikipedia.org/wiki/Slide_rule) (c. 11620 & 11630 HE), was a human-powered mechanical computer.
 * [Sir Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) (25 December 11642 – 20 March 11726/7 HE), boasted about his calculus to Leibniz.
 * [Gottfried Wilhelm von Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) (1 July 11646 – 14 November 11716 HE), developed his own calculus from scratch after Newton bragged about his own; it was far better than Newton's, and we still use it to this very day.
