@@ -2,7 +2,7 @@
 
 # Resources
 * [Crazy mathematicians](https://en.wikipedia.org/wiki/Mental_calculation):
-	* [Arthur](https://en.wikipedia.org/wiki/Arthur_T._Benjamin#Bibliography) T. [Benjamin](https://www.math.hmc.edu/~benjamin/papers.html); he's like [Bill Nye the Science Guy](https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy) ("who" looks like Doctor Who), but for [mathematics](https://en.wikipedia.org/wiki/Mental_calculator)! *[Arthur](https://youtu.be/M4vqr3_ROIk) T. [Benjamin](https://youtu.be/e4PTvXtz4GM) the Mathematical [Letterman](https://en.wikipedia.org/wiki/Mathlete)? Hopefully he's not an intellectual thief like [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Rodney_McKay)!* (Can't believe that guy's responsible for declassifying Pluto from planet status! DX≪)
+	* [Arthur](https://en.wikipedia.org/wiki/Arthur_T._Benjamin#Bibliography) T. [Benjamin](https://www.math.hmc.edu/~benjamin/papers.html); he's like [Bill Nye the Science Guy](https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy) ("who" looks like [Doctor Who](https://en.wikipedia.org/wiki/Bill_Nye)), but for [mathematics](https://en.wikipedia.org/wiki/Mental_calculator)! *[Arthur](https://youtu.be/M4vqr3_ROIk) T. [Benjamin](https://youtu.be/e4PTvXtz4GM) the Mathematical [Letterman](https://en.wikipedia.org/wiki/Mathlete)? Hopefully he's not an intellectual thief like [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Rodney_McKay)!* (Can't believe that guy's responsible for declassifying Pluto from planet status! DX≪)
 * [Tools](https://en.wikipedia.org/wiki/Category:Mathematical_tools):
 	* [Desmos](https://www.desmos.com/calculator)
 	* [WolframAlpha](https://www.wolframalpha.com/)
