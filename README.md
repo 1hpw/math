@@ -1,4 +1,5 @@
 [HE](https://youtu.be/czgOWmtGVGs) ([WikiLinks](https://en.wikipedia.org/wiki/Holocene_calendar))
+<br>There's a guy on YouTube who sounds like the [EMH](https://en.wikipedia.org/wiki/The_Doctor_(Star_Trek:_Voyager))...
 
 # Resources
 * [Crazy mathematicians](https://en.wikipedia.org/wiki/Mental_calculation):
