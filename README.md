@@ -10,6 +10,8 @@
 		* [Practice](https://www.wolframalpha.com/problem-generator/)
 	* [Symbolab](https://www.symbolab.com/)
 		* [Practice](https://www.symbolab.com/practice)
+	* [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)
+	* [PW](https://proofwiki.org/wiki/Category:Content_Categories)
 * [Books](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics):
 	* [Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements) (c. 9701 HE); biblical mathematics!
 	* [Flatland](https://en.wikipedia.org/wiki/Template:Flatland) (11884 HE); pseudofictional entertainment!
@@ -17,7 +19,6 @@
 		* [Introduction to Mathematical Philosophy](https://en.wikipedia.org/wiki/Introduction_to_Mathematical_Philosophy) (11919 HE), dumbs it down!
 * [Movies](https://en.wikipedia.org/wiki/List_of_films_about_mathematicians):
 	* [Donald in Mathmagic Land](https://en.wikipedia.org/wiki/Donald_in_Mathmagic_Land) (26 June 11959 HE); mathematical intelligence can be used to win games without using artificial/synthetic/ETC intelligence!
-* [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)
 * [Khan Academy (Google maps)](https://www.khanacademy.org/exercisedashboard)
 * [Numberphile](https://www.youtube.com/user/numberphile)
 * Reddit'14: [A Compilation of Useful, Free, Online Math Resources](https://www.reddit.com/r/math/comments/2mkmk0/a_compilation_of_useful_free_online_math_resources/)
