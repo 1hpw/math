@@ -21,11 +21,11 @@
 	* [Donald in Mathmagic Land](https://en.wikipedia.org/wiki/Donald_in_Mathmagic_Land) (26 June 11959 HE); mathematical intelligence can be used to win games without using artificial/synthetic/ETC intelligence!
 * [Khan Academy (Google maps)](https://www.khanacademy.org/exercisedashboard)
 * [Numberphile](https://www.youtube.com/user/numberphile)
+* Freenode: [Book List](http://freenode-math.wikia.com/wiki/Book_List)
 * Reddit'14: [A Compilation of Useful, Free, Online Math Resources](https://www.reddit.com/r/math/comments/2mkmk0/a_compilation_of_useful_free_online_math_resources/)
 * Reddit'10: [Let's list all the useful (free) online math resources.](https://www.reddit.com/r/math/comments/bqbex/lets_list_all_the_useful_free_online_math/) (You can [NEVER](https://web.archive.org/web/20150516141358/https://www.reddit.com/r/math/comments/bqbex/lets_list_all_the_useful_free_online_math/) delete it!!! :D)
 * Reddit'10: [Reddit, lets compile a list of the best online learning centers. We could all use a little education.](https://www.reddit.com/r/reddit.com/comments/cktxy/reddit_lets_compile_a_list_of_the_best_online/) (not mathspecifically but I'd like to be able to have a single point of reference for these "-thing"s)
 * Reddit'16: [Seriously, let's compile some resources on game theory](https://www.reddit.com/r/ethereum/comments/4w5z3e/seriously_lets_compile_some_resources_on_game/) (seriously; game theory is mathematical, right?)
-* Freenode: [Book List](http://freenode-math.wikia.com/wiki/Book_List)
 
 # Interactive Art
 * [Just have a click/drag around](http://www.felixauer.com/javascript/difeq.html)! ;)
