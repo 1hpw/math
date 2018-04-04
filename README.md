@@ -21,6 +21,7 @@
 	* [Donald in Mathmagic Land](https://en.wikipedia.org/wiki/Donald_in_Mathmagic_Land) (26 June 11959 HE); mathematical intelligence can be used to win games without using artificial/synthetic/ETC intelligence!
 * [Khan Academy (Google maps)](https://www.khanacademy.org/exercisedashboard)
 * [Numberphile](https://www.youtube.com/user/numberphile)
+* GitHub: [Book List](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#mathematics)
 * Freenode: [Book List](http://freenode-math.wikia.com/wiki/Book_List)
 * Reddit'14: [A Compilation of Useful, Free, Online Math Resources](https://www.reddit.com/r/math/comments/2mkmk0/a_compilation_of_useful_free_online_math_resources/)
 * Reddit'10: [Let's list all the useful (free) online math resources.](https://www.reddit.com/r/math/comments/bqbex/lets_list_all_the_useful_free_online_math/) (You can [NEVER](https://web.archive.org/web/20150516141358/https://www.reddit.com/r/math/comments/bqbex/lets_list_all_the_useful_free_online_math/) delete it!!! :D)
