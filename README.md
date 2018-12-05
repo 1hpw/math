@@ -12,7 +12,7 @@
 		* [Practice](https://www.symbolab.com/practice)
 	* [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)
 	* [PW](https://proofwiki.org/wiki/Category:Content_Categories)
-* [Books](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics):
+* [Books](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics) & [Books](https://proofwiki.org/wiki/Book:Books):
 	* [Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements) (c. 9701 HE); biblical mathematics!
 	* [Flatland](https://en.wikipedia.org/wiki/Template:Flatland) (11884 HE); pseudofictional entertainment!
 	* [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) (11910 HE); they attempt to prove every"-thing", including `1+1=2` in just a few hundred pages!
